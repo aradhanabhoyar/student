@@ -2,16 +2,6 @@ Name: Ram
 
 Roll No: 1
 
-Subject-wise Marks:
+subjects and marks :{'English': 56, 'Math': 76, 'Science': 98, 'History': 65, 'Geography': 96} 
 
-  English: 88
-  
-  Math: 76
-  
-  Science: 92
-  
-  History: 81
-  
-  Geography: 90
-  
-Percentage: 85.40%
+Percentage: 78.20%
